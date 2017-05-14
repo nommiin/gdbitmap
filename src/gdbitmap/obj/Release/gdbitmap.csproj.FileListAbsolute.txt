@@ -1,0 +1,5 @@
+F:\Zelda\Minish Cap\lua\gdbitmap\gdbitmap\bin\Release\gdbitmap.exe.config
+F:\Zelda\Minish Cap\lua\gdbitmap\gdbitmap\bin\Release\gdbitmap.exe
+F:\Zelda\Minish Cap\lua\gdbitmap\gdbitmap\bin\Release\gdbitmap.pdb
+F:\Zelda\Minish Cap\lua\gdbitmap\gdbitmap\obj\Release\gdbitmap.exe
+F:\Zelda\Minish Cap\lua\gdbitmap\gdbitmap\obj\Release\gdbitmap.pdb

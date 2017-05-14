@@ -1,0 +1,6 @@
+F:\Zelda\Minish Cap\lua\gdbitmap\gdbitmap\bin\Debug\gdbitmap.exe.config
+F:\Zelda\Minish Cap\lua\gdbitmap\gdbitmap\bin\Debug\gdbitmap.exe
+F:\Zelda\Minish Cap\lua\gdbitmap\gdbitmap\bin\Debug\gdbitmap.pdb
+F:\Zelda\Minish Cap\lua\gdbitmap\gdbitmap\obj\Debug\gdbitmap.csprojResolveAssemblyReference.cache
+F:\Zelda\Minish Cap\lua\gdbitmap\gdbitmap\obj\Debug\gdbitmap.exe
+F:\Zelda\Minish Cap\lua\gdbitmap\gdbitmap\obj\Debug\gdbitmap.pdb
